@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+.profile {
+  margin: 40px 160px;
+  font-family: "Montserrat";
+}
+
+.profile-details {
+  min-width: 300px;
+  width: max-content;
+  padding: 20px;
+  text-align: center;
+  background: #e8f9ff;
+  border-radius: 20px;
+}
